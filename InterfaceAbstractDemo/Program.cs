@@ -1,5 +1,4 @@
 ﻿using System;
-using InterfaceAbstractDemo.Abstract;
 using InterfaceAbstractDemo.Adapters;
 using InterfaceAbstractDemo.Concrete;
 using InterfaceAbstractDemo.Entities;
